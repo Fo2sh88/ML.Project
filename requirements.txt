@@ -1,0 +1,28 @@
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+
+# GUI Framework
+# tkinter is included with Python standard library
+
+# Testing Framework
+# unittest is included with Python standard library
+
+# Additional utilities that might be needed
+pickle5>=0.0.11; python_version < '3.8'
+
+# Development and Testing Dependencies
+coverage>=6.0.0
+pytest>=7.0.0
+pytest-cov>=4.0.0
+pytest-mock>=3.8.0
+
+# Code Quality
+flake8>=5.0.0
+black>=22.0.0
+isort>=5.10.0
+
+# Documentation
+sphinx>=5.0.0
+sphinx-rtd-theme>=1.0.0
